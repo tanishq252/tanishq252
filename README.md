@@ -40,6 +40,6 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 
 ## Connect with me 🤝
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-deshpande-0ba147204/)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajathxrne/)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-deshpande-0ba147204/)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanishq252002/)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tanishq252002@gmail.com&su=Regarding&body=Hi%20Tanishq!)
 
