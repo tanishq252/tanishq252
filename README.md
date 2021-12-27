@@ -32,16 +32,14 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-  
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> 
   <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg"></code>
   <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg"></code>
-  <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/r-lang..svg"></code>
+  <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/r-lang.svg"></code>
   <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg"></code>
   <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg"></code>
   <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg"></code>
-  <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg"></code>
-  
+  <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg"></code> 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" ></code><code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 
 
