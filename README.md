@@ -10,13 +10,7 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 <img align="center" src="https://github.com/tanishq252/tanishq252/blob/main/ml.jpg" width="800">
 
 <!-- ------------------------------------------------- -->
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tanishq252&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=800 alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq252&show_icons=true&include_all_commits=true&theme=black-ice&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq252&layout=compact&theme=black-ice&hide_border=true" />
-</div>
 <!-- ------------------------------------------------- -->
 
 
