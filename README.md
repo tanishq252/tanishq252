@@ -12,7 +12,7 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 <!-- ------------------------------------------------- -->
 
 <!-- ------------------------------------------------- -->
-
+<br></br>
 
 ## GitHub Stats 📈
 <div align="center">
