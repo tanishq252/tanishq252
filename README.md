@@ -34,8 +34,8 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
   </a>
 </p>
 
-<h3 align="left">🛠️Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">🛠️Languages and Tools:</h3>
+<p align="center">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
