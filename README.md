@@ -1,4 +1,4 @@
-### Hi there!! 👋
+<div align = "center">Hi there!! 👋</div>
 I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. 
 
 
