@@ -28,6 +28,11 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
   </a>
 </div>
 <br/><br/>
+<p align="center">
+    <a href="https://github.com/tanishq252/">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tanishq252&theme=dracula" />
+  </a>
+</p>
 
 <h3 align="left">🛠️Languages and Tools:</h3>
 <p align="left">
