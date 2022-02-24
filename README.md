@@ -53,8 +53,8 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
   <code><img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg"></code> 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" ></code><code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 
-  <h3 align="center">Connect with me 🤝</h3>
-  <p align="center">
+  <h3 align="left">Connect with me 🤝</h3>
+  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-deshpande-0ba147204/)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanishq252002/)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tanishq252002@gmail.com&su=Regarding&body=Hi%20Tanishq!)
 
