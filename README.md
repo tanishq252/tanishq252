@@ -14,7 +14,8 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 <!-- ------------------------------------------------- -->
 <br></br>
 
-## GitHub Stats 📈
+
+<h3 align="center">GitHub Stats 📈</h3>
 <div align="center">
   <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq252&theme=dracula&hide_border=true" width="800">
