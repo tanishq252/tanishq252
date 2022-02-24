@@ -3,8 +3,7 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align = "center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer"></a>
+<p align = "center"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer">
 </p>
 
 <img align="center" src="https://github.com/tanishq252/tanishq252/blob/main/ml.jpg" width="800">
