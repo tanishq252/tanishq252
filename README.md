@@ -21,7 +21,7 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
   </a>
   <br/>
   <a href="https://github.com/tanishq252/github-readme-stats" style="margin-top:100px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq252&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq252&theme=dracula&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
  </a>
  <a href="https://github.com/tanishq252/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq252&count_private=true&theme=dracula&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
