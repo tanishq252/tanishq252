@@ -36,8 +36,6 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 
 <br></br>
 
-### [Snake game from github user contributions graph](https://github.com/tanishq252/snk) - [tanishq252](https://github.com/tanishq252/) 
-![preview](https://raw.githubusercontent.com/tanishq252/snk/output/github-contribution-grid-snake.gif)
 
 <h3 align="center">🛠️Languages and Tools:</h3>
 <p align="center">
