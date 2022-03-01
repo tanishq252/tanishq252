@@ -35,6 +35,12 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 </p>
 
 <br></br>
+<h3 align="left"> 👨‍💻 View My Profiles</h3>
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tanishq252002)&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Tan_252/)&nbsp;&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tanishq252)&nbsp;&nbsp;
+
 
 <h3 align="left"> ⭐ Machine Learning/Deep Learning</h3>
 
