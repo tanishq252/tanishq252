@@ -6,6 +6,8 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 <p align = "left"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer">
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-tanishq252&color=green)
+
 <img align="center" src="https://github.com/tanishq252/tanishq252/blob/main/ml.jpg" width="800">
 
 <!-- ------------------------------------------------- -->
