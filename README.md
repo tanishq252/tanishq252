@@ -1,3 +1,8 @@
+
+
+<!-- <img align="center" src="https://github.com/tanishq252/tanishq252/blob/main/ml.jpg" width="800"> -->
+![Group 55](https://user-images.githubusercontent.com/78098329/160633730-6a333561-a1f2-4fe9-bdc2-73662e3be9d1.png)
+
 <h1 align = "center">Hi there!! 👋</h1>
 I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. 
 
@@ -7,11 +12,6 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-tanishq252&color=green)
-
-<!-- <img align="center" src="https://github.com/tanishq252/tanishq252/blob/main/ml.jpg" width="800"> -->
-![Group 55](https://user-images.githubusercontent.com/78098329/160633730-6a333561-a1f2-4fe9-bdc2-73662e3be9d1.png)
-
-
 <!-- ------------------------------------------------- -->
 
 <!-- ------------------------------------------------- -->
