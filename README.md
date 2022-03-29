@@ -1,9 +1,6 @@
 
 
-<!-- <img align="center" src="https://github.com/tanishq252/tanishq252/blob/main/ml.jpg" width="800"> -->
-<!-- ![Group 55](https://user-images.githubusercontent.com/78098329/160633730-6a333561-a1f2-4fe9-bdc2-73662e3be9d1.png) -->
-![bgg](https://user-images.githubusercontent.com/78098329/160636300-2454bbf4-dc8e-4d7a-9ddd-5c80106bbaed.png)
-
+![f](https://user-images.githubusercontent.com/78098329/160636865-1fa6f635-5c23-49fc-b65f-19ed2bd9afac.png)
 
 <h1 align = "center">Hi there!! 👋</h1>
 I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. 
