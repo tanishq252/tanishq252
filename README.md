@@ -8,7 +8,9 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 
 ![](https://komarev.com/ghpvc/?username=your-github-tanishq252&color=green)
 
-<img align="center" src="https://github.com/tanishq252/tanishq252/blob/main/ml.jpg" width="800">
+<!-- <img align="center" src="https://github.com/tanishq252/tanishq252/blob/main/ml.jpg" width="800"> -->
+![Group 55](https://user-images.githubusercontent.com/78098329/160633730-6a333561-a1f2-4fe9-bdc2-73662e3be9d1.png)
+
 
 <!-- ------------------------------------------------- -->
 
