@@ -1,6 +1,9 @@
 
-
+<!-- 
 ![f](https://user-images.githubusercontent.com/78098329/160636865-1fa6f635-5c23-49fc-b65f-19ed2bd9afac.png)
+![d](https://user-images.githubusercontent.com/78098329/160739443-a4016064-f6bf-4783-8c04-b6550feecea9.png) -->
+![ff](https://user-images.githubusercontent.com/78098329/160739116-68629d9d-b134-4ac9-b5e9-5ecacc1e164f.png)
+
 
 <h1 align = "center">Hi there!! 👋</h1>
 I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. 
