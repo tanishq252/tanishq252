@@ -5,15 +5,32 @@
 ![ff](https://user-images.githubusercontent.com/78098329/160739116-68629d9d-b134-4ac9-b5e9-5ecacc1e164f.png)
 
 
-<h1 align = "center">Hi there!! 👋</h1>
-I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. 
+<!-- <h1 align = "center">Hi there!! 👋</h1> -->
 
+<br></br>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align = "left"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer">
+<h1 align="center">Hi , I'm Tanishq Deshpande <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align = "center">
+  <p>I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. </p>
+  </div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <br></br>
+  <p align = "center">
+<h2>Current Status</h2>
+
+- 💼 I’m pursuing <strong>BTECH in Computer Science</strong>.
+- 🔭 I’m currently working on <strong>AI</strong>, <strong>Data Structures and Algorithms</strong> and <strong>MERN stack</strong>
+- 🌱 I’m currently learning <strong>Natural Language Processing</strong> and <strong>Cloud Computing</strong>
+- 🔍 I’m looking for career opportunities in the <strong>Fintech</strong> and <strong>Product based</strong> companies.
+</p>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-tanishq252&color=green)
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- <p align = "center"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer">
+</p> -->
+
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-tanishq252&color=green) -->
 <!-- ------------------------------------------------- -->
 
 <!-- ------------------------------------------------- -->
@@ -23,20 +40,20 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 <h3 align="center">GitHub Stats 📈</h3>
 <div align="center">
   <a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq252&theme=dracula&hide_border=true" width="800">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq252&theme=chartreuse-dark&hide_border=true" width="800">
   </a>
   <br/>
   <a href="https://github.com/tanishq252/github-readme-stats" style="margin-top:100px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq252&theme=dracula&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq252&theme=chartreuse-dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
  </a>
  <a href="https://github.com/tanishq252/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq252&count_private=true&theme=dracula&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq252&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
   </a>
 </div>
 <br/><br/>
 <p align="center">
     <a href="https://github.com/tanishq252/">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tanishq252&theme=dracula" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tanishq252&theme=chartreuse-dark" />
   </a>
 </p>
 
@@ -87,6 +104,10 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   
 <h3 align="left"> ⭐ Design</h3>
 
@@ -96,6 +117,7 @@ I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore n
 <h3 align="left"> ⭐ Databases</h3>
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3 align="left"> ⭐ Version Control</h3>
 
