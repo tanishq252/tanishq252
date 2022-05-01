@@ -2,7 +2,9 @@
 <!-- 
 ![f](https://user-images.githubusercontent.com/78098329/160636865-1fa6f635-5c23-49fc-b65f-19ed2bd9afac.png)
 ![d](https://user-images.githubusercontent.com/78098329/160739443-a4016064-f6bf-4783-8c04-b6550feecea9.png) -->
-![ff](https://user-images.githubusercontent.com/78098329/160739116-68629d9d-b134-4ac9-b5e9-5ecacc1e164f.png)
+<!-- ![ff](https://user-images.githubusercontent.com/78098329/160739116-68629d9d-b134-4ac9-b5e9-5ecacc1e164f.png) -->
+![Group 63](https://user-images.githubusercontent.com/78098329/166143365-c2696606-05e3-40c7-9a07-3162ffc02709.png)
+
 
 
 <!-- <h1 align = "center">Hi there!! 👋</h1> -->
@@ -11,7 +13,7 @@
 
 <h1 align="center">Hi , I'm Tanishq Deshpande <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align = "center">
-  <p>I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. </p>
+  <p>A Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. </p>
   </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -20,8 +22,9 @@
 <h2>Current Status</h2>
 
 - 💼 I’m pursuing <strong>BTECH in Computer Science</strong>.
-- 🔭 I’m currently working on <strong>AI</strong>, <strong>Data Structures and Algorithms</strong> and <strong>MERN stack</strong>
-- 🌱 I’m currently learning <strong>Natural Language Processing</strong> and <strong>Cloud Computing</strong>
+- 🔭 I’m currently working on <strong>AI</strong>, <strong>Data Structures and Algorithms</strong> and <strong>MERN stack</strong>.
+- 🌱 I’m currently learning <strong>Natural Language Processing</strong> and <strong>Cloud Computing</strong>.
+- 🙌 I like to solve <strong>brainstorming</strong> questions to improve <strong>problem solving skills</strong>.
 - 🔍 I’m looking for career opportunities in the <strong>Fintech</strong> and <strong>Product based</strong> companies.
 </p>
 </p>
