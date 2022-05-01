@@ -14,7 +14,7 @@
   <p>I am Tanishq Deshpande, a Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. </p>
   </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
   <br></br>
   <p align = "center">
 <h2>Current Status</h2>
