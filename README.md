@@ -16,10 +16,12 @@
   <p>A Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. </p>
   </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=100"></a>
   <br></br>
   <p align = "center">
-<h2>Current Status</h2>
+  
+  
+<h2>My Current Status</h2>
 
 - 💼 I’m pursuing <strong>BTECH in Computer Science</strong>.
 - 🔭 I’m currently working on <strong>AI</strong>, <strong>Data Structures and Algorithms</strong> and <strong>MERN stack</strong>.
@@ -40,7 +42,7 @@
 <br></br>
 
 
-<h3 align="center">GitHub Stats 📈</h3>
+<h2 align="center">GitHub Stats 📈</h2>
 <div align="center">
   <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq252&theme=chartreuse-dark&hide_border=true" width="800">
@@ -59,6 +61,12 @@
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tanishq252&theme=chartreuse-dark" />
   </a>
 </p>
+
+<br></br>
+
+ ## :trophy: Git profile Trophies
+
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq252&layout=compact&theme=algolia" alt="tanishq252" /></a> </p>
 
 <br></br>
 <h3 align="left"> 👨‍💻 View My Profiles</h3>
