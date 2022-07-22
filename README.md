@@ -17,7 +17,7 @@
 
 <h1 align="center">Hi , I'm Tanishq Deshpande <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align = "center">
-  <p>A Computer Science undergrad. I always like to explore new technical stuff and try to implement it. Trying out new things and making real time projects are my interests. I also like competitive coding and try to go through brainstorming questions. </p>
+  <p>A Computer Science undergrad. I always like to explore new tools and technologies and use them to solve some challenging problem statements. Developing scalable applications to overcome complex challenges interests me. I like competitive coding and always try to come up with proper solutions for brainstorming questions. </p>
   </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=100"></a>
