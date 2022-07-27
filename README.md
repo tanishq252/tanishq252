@@ -28,9 +28,9 @@
 <h2>My Current Status</h2>
 
 - 💼 I’m pursuing <strong>BTECH in Computer Science</strong>.
-- 🔭 I’m currently working on <strong>AI</strong>, <strong>Data Structures and Algorithms</strong> and <strong>MERN stack</strong>.
-- 🌱 I’m currently learning <strong>Natural Language Processing</strong> and <strong>Cloud Computing</strong>.
-- 🙌 I like to solve <strong>brainstorming</strong> questions to improve <strong>problem solving skills</strong>.
+- 🔭 I’m currently working on <strong>AI</strong>, <strong>Data Structures and Algorithms</strong> and, the <strong>MERN stack</strong>.
+- 🌱 I’m currently learning <strong>Natural Language Processing</strong> and <strong>Cloud Computing(AWS)</strong>.
+- 🙌 I like to solve <strong>brainstorming</strong> questions to improve my <strong>problem solving skills</strong>.
 - 🔍 I’m looking for career opportunities in the <strong>Fintech</strong> and <strong>Product based</strong> companies.
 </p>
 </p>
