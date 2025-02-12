@@ -17,7 +17,7 @@
 
 <h1 align="center">Hi , I'm Tanishq Deshpande <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align = "center">
-  <p>A Computer Science undergrad. I always like to explore new tools and technologies and use them to solve some challenging problem statements. Developing scalable applications to overcome complex challenges interests me. I like competitive coding and always try to come up with proper solutions for brainstorming questions. </p>
+  <p>A Software Developer who always like to explore new tools and technologies and use them to solve some challenging problem statements. Developing scalable applications to overcome complex challenges interests me. I like competitive coding and always try to come up with proper solutions for brainstorming questions. </p>
   </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Flutter+Developer;Python+Programmer;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=100"></a>
@@ -27,7 +27,7 @@
   
 <h2>My Current Status</h2>
 
-- 💼 I’m pursuing <strong>BTECH in Computer Science</strong>.
+- 💼 I’m working as a Software Developer @ <strong>JPMorganChase</strong>.
 - 🔭 I’m currently working on <strong>AI</strong>, <strong>Data Structures and Algorithms</strong> and, the <strong>MERN stack</strong>.
 - 🌱 I’m currently learning <strong>Natural Language Processing</strong> and <strong>Cloud Computing(AWS)</strong>.
 - 🙌 I like to solve <strong>brainstorming</strong> questions to improve my <strong>problem solving skills</strong>.
